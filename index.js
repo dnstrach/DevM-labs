@@ -33,6 +33,7 @@
 */
 
 let speed = 25
+//console.log(speed)
 
 
 
@@ -64,19 +65,20 @@ console.log(speed)
 
 ///// PROBLEM 3 /////
 /*
-    You're going to be watching a lot more sports
-    now that you have this sweet high-speed 
-    connection. Or maybe a lot more YouTube...
-    Either way, you're going to need some snacks.
+You're going to be watching a lot more sports
+now that you have this sweet high-speed 
+connection. Or maybe a lot more YouTube...
+Either way, you're going to need some snacks.
 
-    Create a variable called 'faveSnack' and set its
-    value to be a string of your favorite snack. 
+Create a variable called 'faveSnack' and set its
+value to be a string of your favorite snack. 
 
-    Reminder: this could change, so be careful about
-    which keyword you use to declare this variable.
+Reminder: this could change, so be careful about
+which keyword you use to declare this variable.
 */
 
-let faveSnack = 'wasabiAlmonds'
+let faveSnack = 'wasabi almonds'
+//console.log(faveSnack)
 
 
 
@@ -96,6 +98,7 @@ let faveSnack = 'wasabiAlmonds'
 */
 
 let faveDrink = 'iced tea'
+//console.log(faveDrink)
 
 
 
@@ -116,6 +119,7 @@ let faveDrink = 'iced tea'
 */
 
 const private = true
+//console.log(private)
 
 
 
@@ -275,7 +279,7 @@ console.log(newTotal)
 */
 
 let savings = (((total - newTotal) / total) * 100) 
-console.log(savings)
+console.log(savings.toFixed(2))
 
 
 
